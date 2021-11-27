@@ -1,0 +1,23 @@
+{
+  "name": "swapi-api-stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeodesign/swapi-api-stubs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeodesign/swapi-api-stubs/issues"
+  },
+  "homepage": "https://github.com/leeodesign/swapi-api-stubs#readme",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}
